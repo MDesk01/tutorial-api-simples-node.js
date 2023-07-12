@@ -18,15 +18,23 @@ Pequeno tutorial de como construir uma API simples utilizando node.js e json-ser
 {
 <br>
 	"objetos": [{
- <br>
+<br>
 		"id": 1,
+  <br>
 		"nome": "nome_do_objeto_01"
+  <br>
 		},{
+  <br>
 		"id": 2,
+  <br>
 		"nome": "nome_do_objeto_02"
+  <br>
 		}
+  <br>
 ]}
-
+<br>
 7 - VA ATÉ O ARQUIVO "package.json" E NOS "scripts" INSIRA O COMANDO START DA SEGUINTE FORMA:
+<br>
 	"start": "json-server --watch db.json --port 3001"
+ <br>
 8 - PARA INICIAR A API, USE O COMANDO 'npm start'
