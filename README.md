@@ -13,7 +13,7 @@ Pequeno tutorial de como construir uma API simples utilizando node.js e json-ser
 <br>
 5 - CRIE UM ARQUIVO C/ O NOME 'db.json'
 <br>
-6 -  CRIE UM(OU MAIS) OBJETOS JSON SEGUINTO O SEGUINTE MODELO:
+6 -  DENTRO DO 'db.json' CRIE UM(OU MAIS) OBJETOS JSON SEGUINTO O SEGUINTE MODELO:
 <br>
 {
 <br>
